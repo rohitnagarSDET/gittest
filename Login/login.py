@@ -24,7 +24,7 @@ class DragAndDrop():
             print("Drag And Drop Element Successful")
             time.sleep(2)
         except:
-            print("Drag And Drop failed on element and we are testing git branch feature_1")
+            print("Drag And Drop failed on element and we are testing git branch feature_2")
 
 ff = DragAndDrop()
 ff.test1()
